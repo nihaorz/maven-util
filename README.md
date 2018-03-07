@@ -26,7 +26,7 @@
 
 ## 功能点
 
-| java类                                    | 功能点                |
-| ---------------------------------------- | ------------------ |
-| `com.github.nihaorz.maven.util.MavenVersionUpdateUtils` | 实现`pom.xml`文件的自动更新 |
+| java类                                    | 功能点                          |
+| ---------------------------------------- | ---------------------------- |
+| `com.github.nihaorz.maven.util.MavenVersionUpdateUtils` | 实现`pom.xml`文件中`version`的自动更新 |
 
