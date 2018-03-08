@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.nihaorz</groupId>
-    <artifactId>nihaorz-maven-util</artifactId>
+    <artifactId>maven-util</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
     <distributionManagement>
@@ -23,7 +23,7 @@
     </repositories>
 
     <scm>
-        <connection>git@github.com:nihaorz/nihaorz-maven-util.git</connection>
+        <connection>git@github.com:nihaorz/maven-util.git</connection>
     </scm>
 
     <dependencies>
